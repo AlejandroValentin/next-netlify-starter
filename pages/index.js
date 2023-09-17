@@ -9,11 +9,10 @@ export default function Home() {
         <title>STARTING!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main>
-        <Header title="jujuujuj TRYING THISSSS" />
+        <Header title="not jereeee" />
         <p className="description">
-          Absolutely doing <code>it!!!!</code>
+          AJJJAJAJJ <code>it!!!!</code>
         </p>
       </main>
 
